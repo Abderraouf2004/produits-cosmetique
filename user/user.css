@@ -1,0 +1,62 @@
+input {
+    border: none;
+    border-left: 6px solid red;
+    width: 100%; 
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+textarea {
+    border: none;
+    border-left: 6px solid red;
+    width: 100%; 
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+
+
+.Connecter{
+    text-align: center;
+    background-color: rgba(192, 192, 197, 0.74);
+    width: 100%; 
+    padding: 12px 20px;
+   
+}
+
+h4{
+    font-style:italic;
+
+}
+button {
+    border: none;
+    background-color: rgba(44, 43, 43, 0.589);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #c2410e;
+}
+
+a{  
+  
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none; 
+}
+.affiche-msg{
+  border: 2px solid rgb(9, 209, 76);
+  border-radius: 17px;
+  text-align: center;
+}
+

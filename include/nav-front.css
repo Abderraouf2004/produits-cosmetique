@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(241, 241, 248);
+}
+nav{
+  
+     top: 0;
+    left: 0;
+     width: 100%;
+}
+
+.ul-nav-1 {
+    background-color: rgb(26 26 28);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+.ul-nav-1 .right{
+    float: right;
+}
+.ul-nav-1 .left{
+    float:left;
+}
+
+.ul-nav-1 li {
+   
+  display: inline;
+  
+}
+
+.Cosmetique {
+    float: left;
+}
+
+.ul-nav-1 li a {
+    display: block;
+   
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+.ul-nav-2 {
+    background-color: rgb(208 208 209);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.ul-nav-2 .left{
+    float:left;
+}
+.ul-nav-2 li {
+    display: inline;
+    
+}
+
+
+
+  
+
+button {
+    border: none;
+    background-color: rgba(44, 43, 43, 0.589);
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.leftb{
+    float: left;
+}
+
